@@ -4,5 +4,6 @@ class HelloWorld
         System.out.println("HelloWorld");
         System.out.println("NO i will not");
         System.out.println("I wonder how i wonder why :D");
+        System.out.println("Lmfao");
     }
 }
