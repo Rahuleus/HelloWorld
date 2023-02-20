@@ -6,5 +6,6 @@ class HelloWorld
         System.out.println("I wonder how i wonder why :D");
         System.out.println("Lmfao");
         Sytem.out.println("YES!!!!!!!!!!!!!!!!!"):
+        System.out.println("LETSGOOOOOOOOOOOOOO");
     }
 }
