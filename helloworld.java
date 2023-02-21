@@ -8,7 +8,7 @@ class HelloWorld
         Sytem.out.println("YES!!!!!!!!!!!!!!!!!"):
         System.out.println("LETSGOOOOOOOOOOOOOO");
         System.out.println("should i build ny api here????NOOOOOOOOOOOOOOOOOOOOO");
-        System.out.println("HELLO??????CoNSUMERIS");
+        System.out.println("HELLO??????CoNSUMERISM");
       
     }
 }
