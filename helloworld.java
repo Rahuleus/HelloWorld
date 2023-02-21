@@ -5,7 +5,7 @@ class HelloWorld
         System.out.println("NO i will not");
         System.out.println("I wonder how i wonder why :D");
         System.out.println("Lmfao");
-        Sytem.out.println("YES!!!!!!!!!!!!!!!!!"):
+        Sytem.out.println("YES!!!!!!!!!!!!!!!!!");
         System.out.println("LETSGOOOOOOOOOOOOOO");
         System.out.println("should i build ny api here????NOOOOOOOOOOOOOOOOOOOOO");
         System.out.println("HELLO??????CoNSUMERISM");
