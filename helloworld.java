@@ -1,15 +1,17 @@
 import java.util.*;
-public class helloWorld
-{
-    public static void main(String args[]){
-        System.out.println("HelloWorld");
-        System.out.println("NO i will not");
-        System.out.println("I wonder how i wonder why :D");
-        System.out.println("Lmfao");
-        System.out.println("YES!!!!!!!!!!!!!!!!!");
-        System.out.println("LETSGOOOOOOOOOOOOOO");
-        System.out.println("should i build ny api here????NOOOOOOOOOOOOOOOOOOOOO");
-        System.out.println("HELLO??????CoNSUMERISM");
-      
+public class Largest {
+
+    public static void main(String[] args) {
+
+        double n1 = -4.5, n2 = 3.9, n3 = 2.5;
+
+        if( n1 >= n2 && n1 >= n3)
+            System.out.println(n1 + " is the largest number.");
+
+        else if (n2 >= n1 && n2 >= n3)
+            System.out.println(n2 + " is the largest number.");
+
+        else
+            System.out.println(n3 + " is the largest number.");
     }
 }
